@@ -1,1 +1,1 @@
-# Humanity-COVID-19-Prevention-Informatics
+# Humanity-COVID-19-Prevention & Informatics
